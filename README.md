@@ -15,7 +15,7 @@ This project uses a deep learning approach that employs a convolutional neural n
 - **Pytube** 
 - **Matplotlib**
 - **Selenium** 
-- **tensorflow:** 
-- **flask:** 
+- **tensorflow** 
+- **flask** 
 
 
