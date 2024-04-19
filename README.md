@@ -9,4 +9,13 @@ This project uses a deep learning approach that employs a convolutional neural n
 ![Overall Result](https://github.com/nanda1045/Sentiment-Analysis-on-Youtube-Videos/blob/main/overall.jpg?raw=true).
 ![Map Table](https://github.com/nanda1045/Sentiment-Analysis-on-Youtube-Videos/blob/main/map%20table.png?raw=true)
 
+## Packages Used
+
+- **OpenCV**
+- **Pytube** 
+- **Matplotlib**
+- **Selenium** 
+- **tensorflow:** 
+- **flask:** 
+
 
